@@ -5,6 +5,7 @@
 ----------------
 ## Description
 모바일용으로 제작되어 있던 메인 페이지를 반응형을 적용한 pc버전 페이지로 바꿈으로써 pc와 모바일 양쪽에서 사용하기 쉽도록 제작.
+
 사이트의 핵심 서비스인 구독 서비스에 관한 정보를 메인 페이지에서 크게 소개함으로 구독에 대한 접근성을 높이고 사용자들이 구독 서비스에 바로 접근할 수 있도록 변경.
 
 ## Environment
@@ -12,7 +13,11 @@
 
 ## Files
 index.html - 구조문이 작성 된 html 파일
+
 purpledog.css - 구조문과 연결된 css 파일
+
 RSM_reset.css - 구조문과 연결된 css reset 용 파일
+
 purpledog.js - 구조문과 연결된 javascript 파일
+
 img - 웹페이지 제작에 사용된 이미지 및 resource 폴더
